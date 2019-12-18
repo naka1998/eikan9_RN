@@ -1,5 +1,6 @@
 /* 
 入学年度・名前・ポジション(3つまで)・性格・特能・育成方針を入力
+複数人(12人)の入力が可能
 interface PlayerData {
   year:number;
   name:string;
